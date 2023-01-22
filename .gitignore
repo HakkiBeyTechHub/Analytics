@@ -1,0 +1,10 @@
+.history
+__pycache__
+.ipynb_checkpoints
+cifar-10-batches-py
+logs
+woods_dataset
+image-processing.ipynb
+venv
+.vscode
+32-3conv_64-3conv_64-3-64-3conv_256-dense

@@ -1,0 +1,61 @@
+{
+    "1": {
+        "name": "Fagus sylvatica",
+        "type": "Diffuse-porous hardwood",
+        "desc": "Boundaries of growth rings and wood rays are visible to the naked eyes"
+    },
+    "2": {
+        "name": "Juglans regia",
+        "type": "Semi-diffuse-porous hardwood",
+        "desc": "Growth rings are often visible to the naked eyes"
+    },
+    "3": {
+        "name": "Castanea sativa",
+        "type": "Ring-porous hardwood",
+        "desc": "Growth rings are quite visible to the naked eyes"
+    },
+    "4": {
+        "name": "Quercus cerris",
+        "type": "Ring-porous hardwood",
+        "desc": "Wide and quite visible wood rays"
+    },
+    "5": {
+        "name": "Alnus glutinosa",
+        "type": "Diffuse-porous hardwood",
+        "desc": "Wide and little visible wood rays. Blurred growth rings"
+    },
+    "6": {
+        "name": "Fraxinus ornus",
+        "type": "Ring-porous hardwood",
+        "desc": "Growth rings are often visible to the naked eyes"
+    },
+    "7": {
+        "name": "Picea abies",
+        "type": "Softwood",
+        "desc": "Blurred boundaries of earlywood and latewood"
+    },
+    "8": {
+        "name": "Pinus sylvestris",
+        "type": "Softwood",
+        "desc": "Resin canals are visible to the naked eyes. Abrupt transition from the earlywood to the latewood"
+    },
+    "9": {
+        "name": "Ailanthus altissima",
+        "type": "Ring-porous hardwood",
+        "desc": "Large porous in the earlywood and large rays"
+    },
+    "10": {
+        "name": "Robinia pseudoacacia",
+        "type": "Ring-porous hardwood Visible wood rays to the naked eyes strong presence of growth rings"
+    },
+    "11": {
+        "name": "Cupressus sempervirens",
+        "type": "Softwood",
+        "desc": "Discontinuous growth rings and unclear limits earlywood and latewood"
+    },
+    "12": {
+        "name": "Platanus orientalis",
+        "type": "Diffuse-porous hardwood",
+        "desc": "Wide and visible wood rays and quite visible growth rings"
+    }
+}
